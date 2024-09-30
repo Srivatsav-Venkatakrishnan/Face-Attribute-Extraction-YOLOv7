@@ -37,16 +37,16 @@ Ensure that your YOLOv7 model is downloaded and that the .xml and .bin files are
 
 
 4. **Model and Weights:**
-   The Model files and model weights are uploaded in Kaggle and here's the link to model weights and files - https://www.kaggle.com/models/srivatsavvenkat/face-attribute- 
-   extraction
+   The Model files and model weights are uploaded in Kaggle and here's the link to model weights and files 
+    https://www.kaggle.com/models/srivatsavvenkat/face-attribute-extraction
 
    To use the model in real time on your local environment download the model weights zip file and change the model weights path in code and run to get the final output 
    video.
 
-5. **Result/Output:**
+6. **Result/Output:**
 
    Here's link to the result video on my Youtube channel - https://youtu.be/P-RvXG_JpEY
 
-6. **License**
+7. **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
