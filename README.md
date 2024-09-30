@@ -32,19 +32,21 @@ Before you begin, ensure you have met the following requirements:
 2. **Install Dependencies:**
 pip install -r requirements.txt
 
-4. **Prepare Your Model:**
+3. **Prepare Your Model:**
 Ensure that your YOLOv7 model is downloaded and that the .xml and .bin files are in place.
 
 
-5. **Model and Weights:**
-The Model files and model weights are uploaded in Kaggle and here's the link to model weights and files - https://www.kaggle.com/models/srivatsavvenkat/face-attribute-extraction
+4. **Model and Weights:**
+   The Model files and model weights are uploaded in Kaggle and here's the link to model weights and files - https://www.kaggle.com/models/srivatsavvenkat/face-attribute- 
+   extraction
 
-To use the model in real time on your local environment download the model weights zip file and change the model weights path in code and run to get the final output video.
+   To use the model in real time on your local environment download the model weights zip file and change the model weights path in code and run to get the final output 
+   video.
 
-6. **Result/Output:**
+5. **Result/Output:**
 
    Here's link to the result video on my Youtube channel - https://youtu.be/P-RvXG_JpEY
 
-7. **License**
+6. **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
